@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "willowtunes"
+  },
+  "name": "willowtunes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willowtreeapps/willowtunes-webapp"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "~3.33.0",
+    "crypto": "~0.0.3",
+    "director": "~1.2.3",
+    "envify": "~1.2.1",
+    "express": "~3.3.3",
+    "fluxxor": "^1.4.1",
+    "grunt": "~0.4.4",
+    "grunt-browserify": "~2.0.1",
+    "grunt-concurrent": "~0.4.2",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-gh-pages": "^0.9.1",
+    "less": "~1.7.0",
+    "lodash": "~2.4.1",
+    "moment": "~2.6.0",
+    "oboe": "^1.15.1",
+    "optimist": "^0.6.1",
+    "ramda": "^0.5.0",
+    "react": "^0.11.2",
+    "reactify": "^0.14.0",
+    "request": "~2.22.0",
+    "superagent": "~0.17.0"
+  }
+}
